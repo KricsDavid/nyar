@@ -1,0 +1,18 @@
+body{
+    background-image: url(bateman-331.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+p{
+    color:red;
+    font-size: 200%;
+}
+
+h1{
+    font-size: 200%;
+}
+
+img{
+    width: 280px;
+    height: 280px;
+}
