@@ -1,7 +1,9 @@
 body{
     background-image: url(bateman-331.jpg);
     background-repeat: no-repeat;
-    background-size:100%;
+    background-size:cover;
+    height: 100%;
+    width: 100%;
 }
 p{
     color:red;
@@ -15,4 +17,8 @@ h1{
 img{
     width: 280px;
     height: 280px;
+}
+th{
+    color: red;
+    size: 200%;
 }
